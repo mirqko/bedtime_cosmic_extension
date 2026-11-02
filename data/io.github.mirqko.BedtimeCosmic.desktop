@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Bedtime COSMIC
+Comment=Schedule a shutdown timer
+Exec=bedtime-cosmic
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-CosmicApplet=true
